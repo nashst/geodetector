@@ -1,0 +1,33 @@
+citHeader("To cite geodetector in publications, please use:")
+
+citEntry(entry = "Article",
+  author = personList(as.person("Wang JF"),
+                   as.person("Li XH"),
+                   as.person("Christakos G"),
+                   as.person("Liao YL"),
+                   as.person("Zhang T"),
+                   as.person("Gu X"),
+                   as.person("Zheng XY")),
+  title = "Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun region, China",
+  journal = "International Journal of Geographical Information Science",
+  year = "2010",
+  volume = "24",
+  number = "1",
+  pages = "107-127",
+  url = "https://doi.org/10.1080/13658810802443457",
+  textVersion = "Wang JF, Li XH, Christakos G, Liao YL, Zhang T, Gu X & Zheng XY. 2010. Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun region, China. International Journal of Geographical Information Science 24(1): 107-127."
+)
+
+citEntry(entry = "Article",
+  author = personList(as.person("Wang JF"),
+                   as.person("Zhang TL"),
+                   as.person("Fu BJ")),
+  title = "A measure of spatial stratified heterogeneity",
+  journal = "Ecological Indicators",
+  year = "2016",
+  volume = "67",
+  number = "2016",
+  pages = "250-256",
+  url = "https://doi.org/10.1016/j.ecolind.2016.02.052",
+  textVersion = "Wang JF, Zhang TL, Fu BJ. 2016. A measure of spatial stratified heterogeneity. Ecological Indicators 67(2016): 250-256."
+)
