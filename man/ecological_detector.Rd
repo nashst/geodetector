@@ -21,8 +21,8 @@ This function identifies the impact differences between two factors X1 ~ X2.
 }
 \examples{
 data(CollectData)
-ecological_detector("incidence",c("type","region"),CollectData)
-ecological_detector("incidence",c("type","region","level"),CollectData)
+ecological_detector("incidence",c("soiltype","watershed"),CollectData)
+ecological_detector("incidence",c("soiltype","watershed","elevation"),CollectData)
 }
 \keyword{detector}
 \keyword{ecological}

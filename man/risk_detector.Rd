@@ -21,10 +21,10 @@ This function calculates the average values in each stratum of explanatory varia
 }
 \examples{
 data(CollectData)
-risk_detector("incidence","type",CollectData)
+risk_detector("incidence","soiltype",CollectData)
 risk_detector(1,2,CollectData)
 risk_detector(1,c(2,3,4),CollectData)
-risk_detector("incidence",c("type","region","level"),CollectData)
+risk_detector("incidence",c("soiltype","watershed","elevation"),CollectData)
 }
 \keyword{detector}
 \keyword{risk}

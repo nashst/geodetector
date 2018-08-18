@@ -1,13 +1,13 @@
-\name{DiseaseData}
-\alias{DiseaseData}
+\name{DiseaseData_shp}
+\alias{DiseaseData_shp}
 \docType{data}
 \title{
-  DiseaseData
+  DiseaseData_shp
 }
 \description{
     Shapfile format data for the health effect layer.
 }
-\usage{data("DiseaseData")}
+\usage{data("DiseaseData_shp")}
 \format{
   A SpatialPolygonsDataFrame with 189 observations.
 }

@@ -21,10 +21,10 @@ The factor detector q-statistic measures the spatial stratified heterogeneity of
 }
 \examples{
 data(CollectData)
-factor_detector("incidence","type",CollectData)
+factor_detector("incidence","soiltype",CollectData)
 factor_detector(1,2,CollectData)
 factor_detector (1,c(2,3,4),CollectData)
-factor_detector ("incidence",c("type","region"),CollectData)
+factor_detector ("incidence",c("soiltype","watershed"),CollectData)
 }
 \keyword{detector}
 \keyword{factor}

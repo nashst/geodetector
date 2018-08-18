@@ -4,7 +4,7 @@
 \title{CollectData
 }
 \description{
-    Including data for neural-tube birth defects (NTD) Y and suspected and environmental factor data, “elevation”, “soil type”, and “watershed”.
+    Including data for neural-tube birth defects (NTD) Y and suspected and environmental factor data, "elevation", "soil type", and "watershed".
 }
 \usage{data("CollectData")}
 \format{

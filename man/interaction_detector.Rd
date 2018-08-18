@@ -20,9 +20,9 @@ Results of interaction detector include the interactive q satistic.
 This function reveals whether the risk factors X1 and X2 (and more X) have an interactive influence on a disease Y.
 }
 \examples{
-data(CollectData) 
-interaction_detector("incidence",c("type","region"),CollectData)
-interaction_detector("incidence",c("type","region","level"),CollectData)
+data(CollectData)
+interaction_detector("incidence",c("soiltype","watershed"),CollectData)
+interaction_detector("incidence",c("soiltype","watershed","elevation"),CollectData)
 }
 \keyword{detector}
 \keyword{interaction}
