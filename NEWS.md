@@ -1,3 +1,7 @@
+# Version 1.0.3 (2018-10-16)
+* Minor corrections (e.g. add italic) in the Vignette.
+
+
 # Version 1.0.2 (2018-08-13)
 * Update demo data.
 * Modify fuction documents and dataset documents caused by demo data updating.

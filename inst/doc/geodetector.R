@@ -13,11 +13,10 @@ data(CollectData)
 knitr::include_graphics("./figs/fig-2.jpg")
 
 ## ---- eval=F-------------------------------------------------------------
-#  install.packages("./Geodetector/geodetector_1.0-1.tar.gz",
-#                   repos=NULL, type="source")
+#  install.packages("geodetector")
 
 ## ------------------------------------------------------------------------
-library("geodetector")
+library(geodetector)
 
 ## ------------------------------------------------------------------------
 data(CollectData)

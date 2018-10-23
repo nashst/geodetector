@@ -1,6 +1,6 @@
-b4a1d2c9fb28384f002d71eb9ac1c0e7 *DESCRIPTION
+ab5be350c0dce1abd7fa1a7df1c34f1a *DESCRIPTION
 ecbda39ff91287f622bbc1acf18b8b0b *NAMESPACE
-26027abdc40ab9577ef2637b22cac27d *NEWS.md
+091bc63058e22c86579dce56bc5574c0 *NEWS.md
 758c5983347b6d0dfe1053060f2d0483 *R/ecological_detector.r
 d32d0651eeb1842c4a3563c9a3b3bf8c *R/factor_detector.r
 332604d2cd5f0b33454179aa4ca798a1 *R/interaction_detector.r
@@ -8,15 +8,15 @@ d32d0651eeb1842c4a3563c9a3b3bf8c *R/factor_detector.r
 8dff0fbeaca2ba364a713be500765ff0 *R/risk_detector.r
 c8d5ebbfd1c0d994f0e65a5046a62eef *README.md
 bedce6001274c4c9df8c9ef647bf83e2 *build/vignette.rds
-ac865c850bc57694f7921dfc25772c69 *data/CollectData.rda
+88f6dce4266f840017706687e64ccd3a *data/CollectData.rda
 c3015e26002df6aab0c90a327a77ea62 *data/DiseaseData_shp.rda
 b35b00001bb9b5c5e92af78e4eea12e6 *data/Elevation_shp.rda
 88076dfd0c18c9ef68398d9c54a7ad99 *data/SoilType_shp.rda
 97bdd7c2fc3a60b4a08c3104925d3740 *data/Watershed_shp.rda
 b2488d0dfc4983ac3680becad11c91f9 *inst/CITATION
-a651918acdc1f12d75aecdb0059b3381 *inst/doc/geodetector.R
-5230e1cc0aa6ce09c34f4656a93ebca0 *inst/doc/geodetector.Rmd
-3449466264034d9c062cf5b22aa65bb4 *inst/doc/geodetector.html
+0785b8d1ffe78176515a9f215ce285d0 *inst/doc/geodetector.R
+46c8b31d2bf7df8bf35b22ed10d70254 *inst/doc/geodetector.Rmd
+0c3338c3689231c20869990f902379cf *inst/doc/geodetector.html
 3d3a44db6e4c9382391055d28910e616 *man/CollectData.Rd
 27edec81ad543a4427c580b515f7302a *man/DiseaseData_shp.Rd
 f2b9d432a7b4b7a1ba1afdf7caa844d8 *man/Elevation_shp.Rd
@@ -29,4 +29,4 @@ b77506246b93ac10b93df4e41b80c2bd *man/maps2dataframe.Rd
 e3a0b4fcbe69e6a0293cb7a57fbc98b8 *man/risk_detector.Rd
 305f2b2c51fb0d0dc19b0c8a8956c2f8 *vignettes/figs/fig-1.jpg
 4a64e6f89ee2ddd2dd58a8f5b26c280c *vignettes/figs/fig-2.jpg
-5230e1cc0aa6ce09c34f4656a93ebca0 *vignettes/geodetector.Rmd
+46c8b31d2bf7df8bf35b22ed10d70254 *vignettes/geodetector.Rmd

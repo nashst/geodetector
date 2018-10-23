@@ -75,16 +75,14 @@ knitr::include_graphics("./figs/fig-2.jpg")
 After download of geodetector package, using install.packages function to install it.
 
 ```{r, eval=F}
-install.packages("./Geodetector/geodetector_1.0-1.tar.gz",
-                 repos=NULL, type="source")
+install.packages("geodetector")
 ```
 
-where, in the example the file path "D:/Geodector/geodetector_1.0-1.tar.gz" should be change to the data location in user’s computer.
 
 Load package:
 
 ```{r}
-library("geodetector")
+library(geodetector)
 ```
 Read data in table format:
 
